@@ -37,3 +37,5 @@ print("Hello World!")
 ```js
 console.log("Hello World!")
 ```
+
+Here is my nice message that I will commit via Git!
